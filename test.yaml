@@ -1,0 +1,15 @@
+PackageIdentifier: Example.Software
+PackageVersion: 1.0.0
+PackageName: 예제 소프트웨어
+Publisher: 예제 출판사
+PackageLocale: en-US
+License: MIT
+LicenseUrl: https://opensource.org/licenses/MIT
+ShortDescription: 이것은 예제 소프트웨어의 설명입니다.
+Installers:
+  - Architecture: x64
+    InstallerType: exe
+    InstallerUrl: https://example.com/example-software/download
+    InstallerSha256: INSERT_SHA256_HASH_HERE
+ManifestType: singleton
+ManifestVersion: 1.0.0
