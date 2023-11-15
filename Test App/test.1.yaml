@@ -8,8 +8,8 @@ LicenseUrl: https://opensource.org/licenses/MIT
 ShortDescription: 이것은 예제 소프트웨어의 설명입니다.
 Installers:
   - Architecture: x64
-    InstallerType: exe
-    InstallerUrl: https://example.com/example-software/download
-    InstallerSha256: 8A5B4C7DEE44E5E933B952A7B14A7B1D8B5E7304AC92E4B1F2F95D2796CDBADF
+  - InstallerType: exe
+  - InstallerUrl: https://example.com/example-software/download
+  - InstallerSha256: 8A5B4C7DEE44E5E933B952A7B14A7B1D8B5E7304AC92E4B1F2F95D2796CDBADF
 ManifestType: singleton
 ManifestVersion: 1.0.0
