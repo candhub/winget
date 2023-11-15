@@ -10,6 +10,6 @@ Installers:
   - Architecture: x64
     InstallerType: exe
     InstallerUrl: https://example.com/example-software/download
-    InstallerSha256: INSERT_SHA256_HASH_HERE
+    InstallerSha256: 8A5B4C7DEE44E5E933B952A7B14A7B1D8B5E7304AC92E4B1F2F95D2796CDBADF
 ManifestType: singleton
 ManifestVersion: 1.0.0
